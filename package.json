@@ -18,5 +18,6 @@
   "homepage": "https://github.com/joejohnston66/app-ip_address#readme",
   "dependencies": {
     "ip-cidr": "^2.0.17"
-  }
+  },
+  "devDependencies": {}
 }
